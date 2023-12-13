@@ -1,0 +1,23 @@
+.container {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.container .item {
+    display: flex;
+    column-gap: 30px;
+    margin-bottom: 5px;
+    border: 1px solid #838383;
+    padding: 9px 30px;
+}
+
+.btn {
+    display: block;
+    margin-top: 10px;
+}
+
+.messages-and-options {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
